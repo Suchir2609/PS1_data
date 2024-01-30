@@ -1,25 +1,5 @@
 [
   {
-    "station": "Station1",
-    "positions": [
-      {
-        "title": "Position1",
-        "experience": "Exp1",
-        "learning": "Learn1"
-      },
-      {
-        "title": "Position2",
-        "experience": "Exp2",
-        "learning": "Learn2"
-      },
-      {
-        "title": "Position3",
-        "experience": "Exp3",
-        "learning": "Learn3"
-      }
-    ]
-  },
-  {
     "station": " 313 Army Base workshop (1) , Pitoragarh ",
     "positions": [
       {
