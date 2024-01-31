@@ -46,7 +46,7 @@ app.get('/healthcare',(req,res)=>{
     }
     const city = req.query.city
     const capCity = city.charAt(0).toUpperCase() + city.slice(1)
-    res.send(search(capCity, "roles(healthcare).json"))
+    res.send(search(capCity, "roles(Healthcare).json"))
 })
 
 app.get('/IT',(req,res)=>{
